@@ -1,0 +1,21 @@
+name: VoidAESP
+version: ${version}
+main: games.voided.voidaesp.paper.VoidAESP
+api-version: '1.20.6'
+prefix: VoidAESP
+authors: [ _Voidedcake ]
+load: STARTUP
+website: https://voided.games
+permissions:
+    voidaesp.command:
+        description: Permission to use the /VoidAESP command
+        default: op
+    voidaesp.bypass:
+        description: Permission to bypass all checks. A restart is needed to apply this permission.
+        default: false
+    voidaesp.updatecheck:
+        description: Permission to check for plugin updates
+        default: op
+depend:
+    - packetevents
+folia-supported: true

@@ -1,0 +1,6 @@
+rootProject.name = 'VoidAESP'
+include 'locatable-lib'
+include 'logging'
+include 'core'
+include 'platform-paper'
+include 'packetevents'

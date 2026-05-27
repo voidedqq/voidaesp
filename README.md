@@ -130,8 +130,19 @@ inspired by the idea that clients shouldnt know everything happening around them
 
 <div align="center">
 
-made by voided
+# license
 
-if it breaks, thats unfortunate fr
+Copyright (c) 2026 voided
+
+All rights reserved.
+
+You may NOT:
+- redistribute
+- modify
+- resell
+- repost
+- claim this project as your own
+
+without explicit permission from the author.
 
 </div>

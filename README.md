@@ -128,8 +128,6 @@ inspired by the idea that clients shouldnt know everything happening around them
 
 ---
 
-<div align="center">
-
 # license
 
 Copyright (c) 2026 voided

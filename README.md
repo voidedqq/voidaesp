@@ -2,8 +2,6 @@
 
 # VoidAESP
 
-### Voided's Anti-ESP Plugin
-
 ### advanced anti-esp plugin for Paper servers
 
 blocks players from seeing things they shouldnt be able to see
@@ -22,7 +20,7 @@ built for survival servers that are tired of stashfinders, storage esp, mob esp,
 
 # what is this
 
-VoidAESP is a server-side anti esp plugin made for Paper and its forks.
+VoidAESP (Voided's Anti-ESP) is a server-side anti esp plugin made for Paper and its forks.
 
 Instead of letting the client see everything around them, the plugin hides entities and storage containers that the player realistically should not be able to see.
 

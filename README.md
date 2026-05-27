@@ -4,9 +4,9 @@
 
 ### advanced anti-esp plugin for Paper servers
 
-blocks players from seeing things they shouldnt be able to see
+blocks clients from seeing things they shouldnt be able to see
 
-built for survival servers that are tired of stashfinders, storage esp, mob esp, freecam abuse and other cringe client shit
+built for survival servers that are tired of stashfinders, storage esp, mob esp, freecam abuse and other client exploits
 
 ---
 
@@ -24,7 +24,7 @@ VoidAESP (Voided's Anti-ESP) is a server-side anti esp plugin made for Paper and
 
 Instead of letting the client see everything around them, the plugin hides entities and storage containers that the player realistically should not be able to see.
 
-if a player cant see something legitimately, the server wont send it to them.
+if a player cannot legitimately see something, the server does not send it to them.
 
 simple as that.
 
@@ -32,15 +32,15 @@ simple as that.
 
 # features
 
-- 👁️ anti player esp
-- 📦 anti storage esp
-- 🧱 anti stash finder
-- 🐷 anti mob esp
-- 🌀 anti freecam support
-- ⚡ optimized visibility checks
-- 🔧 configurable
-- 🖥️ fully server-side
-- 🚫 no mods required
+- anti player esp
+- anti storage esp
+- anti stash finder
+- anti mob esp
+- anti freecam support
+- optimized visibility checks
+- configurable
+- fully server-side
+- no mods required
 
 ---
 
@@ -48,8 +48,8 @@ simple as that.
 
 | software | support |
 |---|---|
-| Paper | ✅ |
-| Pufferfish | ✅ |
+| Paper | yes |
+| Pufferfish | yes |
 | Purpur | probably |
 | Spigot | not recommended |
 
@@ -94,11 +94,11 @@ the plugin focuses on:
 example config options:
 
 ```yaml
-anti-storage-esp: true
-anti-mob-esp: true
-anti-freecam: true
-check-through-blocks: true
-entity-update-rate: 2
+antiStorageEsp: true
+antiMobEsp: true
+antiFreecam: true
+checkThroughBlocks: true
+entityUpdateRate: 2
 ```
 
 ---
